@@ -8,12 +8,12 @@
 # shield: [ "corne_left", "corne_right" ]
 # include:
 #   - board: bdn9_rev2
-#   - board: nice_nano_v2
+#   - board: nice_nano_v2 nrfmicro_13
 #     shield: reviung41
 #
 ---
 include:
-  - board: nrfmicro_13
+  - board: nice_nano_v2
     shield: skeletyl_rene_left
-  - board: nrfmicro_13
+  - board: nice_nano_v2
     shield: skeletyl_rene_right
