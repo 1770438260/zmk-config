@@ -1,0 +1,10 @@
+file_format: "1"
+id: skelety_rene
+name: Skeletyl Rene
+type: shield
+url: https://gitlab.com/rspecius/skeletyl_rene/
+requires: [2 x Nice!Nano]
+features:
+  - keys
+  - wireless
+  - split
