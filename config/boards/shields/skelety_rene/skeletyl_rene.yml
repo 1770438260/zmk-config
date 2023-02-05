@@ -8,6 +8,6 @@ features:
   - keys
   - wireless
   - split
-  siblings:
+siblings:
   - skeletyl_rene_left
   - skeletyl_rene_right
