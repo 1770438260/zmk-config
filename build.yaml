@@ -14,36 +14,36 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: corne_left
+    shield: skeletyl_rene_left
   - board: nrfmicro_13
-    shield: corne_right
+    shield: skeletyl_rene_right
 include:
   - board: nrfmicro_13
-    shield: corne_left
+    shield: skeletyl_rene_left
   - board: nrfmicro_13
-    shield: corne_right
+    shield: skeletyl_rene_right
 include:
   - board: nrfmicro_13
-    shield: corne_left
+    shield: skeletyl_rene_left
   - board: nrfmicro_13
-    shield: corne_right
+    shield: skeletyl_rene_right
 include:
   - board: nrfmicro_13
-    shield: corne_left
+    shield: skeletyl_rene_left
   - board: nrfmicro_13
-    shield: corne_right
+    shield: skeletyl_rene_right
 include:
   - board: nrfmicro_13
-    shield: corne_left
+    shield: skeletyl_rene_left
   - board: nrfmicro_13
-    shield: corne_right
+    shield: skeletyl_rene_right
 include:
   - board: nrfmicro_13
-    shield: corne_left
+    shield: skeletyl_rene_left
   - board: nrfmicro_13
-    shield: corne_right
+    shield: skeletyl_rene_right
 include:
   - board: nrfmicro_13
-    shield: corne_left
+    shield: skeletyl_rene_left
   - board: nrfmicro_13
-    shield: corne_right
+    shield: skeletyl_rene_right
