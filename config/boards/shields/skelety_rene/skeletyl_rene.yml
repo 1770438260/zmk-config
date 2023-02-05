@@ -3,8 +3,11 @@ id: skelety_rene
 name: Skeletyl Rene
 type: shield
 url: https://gitlab.com/rspecius/skeletyl_rene/
-requires: [2 x Nice!Nano]
+requires: [2 x nrfmicro]
 features:
   - keys
   - wireless
   - split
+  siblings:
+  - skeletyl_rene_left
+  - skeletyl_rene_right
