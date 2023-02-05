@@ -14,6 +14,6 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: skeletyl_left
+    shield: skeletyl_rene_left
   - board: nrfmicro_13
-    shield: skeletyl_right
+    shield: skeletyl_rene_right
