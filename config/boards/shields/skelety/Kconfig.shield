@@ -1,0 +1,5 @@
+config SHIELD_SKELETYL_RENE_LEFT
+    def_bool $(shields_list_contains,skeletyl_rene_left)
+
+config SHIELD_SKELETYL_RENE_RIGHT
+    def_bool $(shields_list_contains,skeletyl_rene_right)
